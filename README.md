@@ -1,5 +1,5 @@
 #  About Me:
-I'm majoring in Computer Science & Artificial Intelligence
+I’m a Computer Science & Artificial Intelligence student with over 5 years of  experience in Networking and Cybersecurity. I enjoy setting up hacking labs, building home servers, and exploring systems inside out. I’m also passionate about Photography and Astrophotography capturing both the world around me and the skies above.
 
 
 ##  Socials:
